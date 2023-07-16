@@ -1,0 +1,22 @@
+.nav{
+    display: flex;
+    background-color: #1d43d8;
+    color: white;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links{
+    list-style: none;
+    display: flex;
+    margin-right: 1rem;
+
+}
+
+.links li{
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding: 0.25rem;
+}
